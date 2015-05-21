@@ -12,7 +12,7 @@
 /*
  * Maximum distance (in meters) from beacon for which, the dot will be visible on screen.
  */
-#define MAX_DISTANCE 20
+#define MAX_DISTANCE 70
 #define TOP_MARGIN   150
 
 @interface ESTDistanceDemoVC () <ESTBeaconManagerDelegate>
